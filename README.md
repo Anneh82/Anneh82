@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Anne
 
 ## About Me
-I am a junior software developer with a keen interest in front-end technologies. I enjoy creating dynamic and responsive web applications and continuously learning new skills to enhance my development toolkit.
+I am a junior software developer with a keen interest in front-end technologies. I am enthusiastic, caring, and optimistic, and I see bugs as cute features that need a little extra love. My passion? Developing web applications with the freedom to leave my mark and where I can show my initiative. I highly value my development and am determined to continue growing in the techniques within my field.
 
 ## Interests and Skills
 - **Front-end Development**: HTML, SCSS/CSS, TypeScript, JavaScript
